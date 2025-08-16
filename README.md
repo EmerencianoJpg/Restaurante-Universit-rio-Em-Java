@@ -24,8 +24,3 @@ Para rodar este projeto, siga os passos abaixo:
 
 * **Java**
 
----
-
-### Sugestão de Descrição para o Repositório
-
-Uma aplicação simples em Java para gerenciar e visualizar o cardápio de um restaurante. Perfeita para um projeto de estudo em POO.
