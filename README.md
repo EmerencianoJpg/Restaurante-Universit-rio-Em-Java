@@ -12,6 +12,9 @@ O projeto permite ao usuário:
 * **Visualizar o cardápio** de qualquer dia da semana.
 * **Apagar o cardápio** de um dia específico.
 
+## Diagrama de Classes UML
+
+A estrutura do projeto é representada por um diagrama de classes UML que pode ser encontrado na pasta do projeto. Este diagrama ilustra as classes principais e as relações entre elas.
 ## Como Instalar e Rodar
 
 Para rodar este projeto, siga os passos abaixo:
